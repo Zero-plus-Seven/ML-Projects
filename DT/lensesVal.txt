@@ -1,0 +1,4 @@
+young	hyper	yes	reduced	no lenses
+young	hyper	yes	normal	hard
+pre	hyper	no	normal	soft
+presbyopic	hyper	no	normal	soft
